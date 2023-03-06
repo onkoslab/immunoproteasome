@@ -44,9 +44,9 @@ mkdir data/time_course
 
 **./plots** contains all the plots generated and provided in the figure
 
-**./supplementart_tables** conatins all the result
+**./supplementart_tables** contains all the result
 
-**./data/tcga_tumor** contans the TCGA gene expression data
+**./data/tcga_tumor** contains the TCGA gene expression data
 
 **./data/gtex_normal** contains the GTEx gene expression data downloaded from https://toil-xena-hub.s3.us-east-1.amazonaws.com/download/gtex_RSEM_Hugo_norm_count.gz 
 
