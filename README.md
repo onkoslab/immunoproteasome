@@ -83,7 +83,7 @@ seaborn                       0.9.0
 scipy                         1.5.4
 scanpy                        1.4.4
 pandas                        0.25.0
-statannot.                    0.2.3
+statannot                    0.2.3
 anndata                       0.6.22
 lifelines                     0.26.3
 
