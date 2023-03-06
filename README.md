@@ -64,7 +64,7 @@ mkdire data/time_course
 
 **Required data** 
 ```
-All the data used in the analysis has been hosted at [link]. Please download the data, unzip it and put it in th data folder as mentioned below. 
+***All the data used in the analysis has been hosted at [link]. Please download the data, unzip it and put it in the data folder as mentioned below.*** 
 put all the data file from tcga_tumor folder to ./data/tcga_tumor directory.
 put the gene signature file Epithelial_Mesenchymal_gene_list.csv, hall_mark_genes_df.csv, immune_and_pathways_gene_list.xlsx  to ./data/r_input directory.
 leave the rest of the files in the ./data directory
