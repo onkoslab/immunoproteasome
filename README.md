@@ -69,8 +69,8 @@ put all the data file from tcga_tumor folder to ./data/tcga_tumor directory.
 put the gene signature file Epithelial_Mesenchymal_gene_list.csv, hall_mark_genes_df.csv, immune_and_pathways_gene_list.xlsx  to ./data/r_input directory.
 leave the rest of the files in the ./data directory
 
-Download the additon GTEx normal gene expression data from  https://toil-xena-hub.s3.us-east-1.amazonaws.com/download/gtex_RSEM_Hugo_norm_count.gz  and put in the ./data/gtex_normal directory.
-Download the time course data from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147405  and put in the ./data/time_course directory
+Download the additonal GTEx normal gene expression data from  https://toil-xena-hub.s3.us-east-1.amazonaws.com/download/gtex_RSEM_Hugo_norm_count.gz  and put it in the ./data/gtex_normal directory.
+Download the time course data from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147405  and put it in the ./data/time_course directory
 ```
 
 ### Required packages
