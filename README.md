@@ -56,7 +56,7 @@ mkdire data/time_course
 
 **./data/r_input/gene_exp** contains the gene expression from tcga to run the r script
 
-**./data/time_course** contains the time course gene expression data which can be downloaded from here
+**./data/time_course** contains the time course gene expression data which can be downloaded from here [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147405]
 
 
 
