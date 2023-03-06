@@ -11,7 +11,7 @@ mkdir data/gtex_normal
 mkdir data/r_input
 mkdir data/r_output
 mkdir data/r_input/gene_exp
-mkdire data/time_course
+mkdir data/time_course
 ```
 ## Notebook details
 ### Run the notebooks and R scripts in the following order
