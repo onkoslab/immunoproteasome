@@ -38,6 +38,12 @@ mkdir data/time_course
 
 11. [Methylation_and_upstream_pathways_IP_analysis.ipynb](https://github.com/Rahulncbs/Immunoproteasome/blob/main/Methylation_and_upstream_pathways_IP_analysis.ipynb)
 
+12. [Single_cell_preprocess_1.ipynb](https://github.com/onkoslab/immunoproteasome/blob/main/Single_cell_preprocess_1.ipynb)
+
+13. [Single-plots.ipynb](https://github.com/onkoslab/immunoproteasome/blob/main/Single-plots.ipynb)
+
+14. [Immunotherapy.ipynb](https://github.com/onkoslab/immunoproteasome/blob/main/Immunotherapy.ipynb)
+
 
 
 **./data** contains all the input data for the analysis. tcga tumor gene expression data, GTEx normal gene expression data, tumor mutation burden, TCGA purity data,
