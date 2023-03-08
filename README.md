@@ -70,7 +70,7 @@ mkdir data/time_course
 
 **Required data** 
 ```
-All the data used in the analysis has been hosted at [ https://drive.google.com/file/d/1laBZKpQXazcR9y-fC-cL1-Q5Q5DLnjfL/view?usp=share_link ]. Please download the data, unzip it and put it in the data folder as mentioned below.
+All the data used in the analysis has been hosted at [ https://drive.google.com/drive/folders/1rQTvtoEExMfx1f6ho318Jqj6KvrON8y2 ]. Please download the data, unzip it and put it in the data folder as mentioned below.
 put all the data file from tcga_tumor folder to ./data/tcga_tumor directory.
 put the gene signature file Epithelial_Mesenchymal_gene_list.csv, hall_mark_genes_df.csv, immune_and_pathways_gene_list.xlsx  to ./data/r_input directory.
 leave the rest of the files in the ./data directory
